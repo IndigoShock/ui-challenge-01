@@ -4,50 +4,89 @@
 @media screen and (min-width: 460px) and (max-width: 768px){
  #a{
   background: #ddd;
-  border: 1px solid #1c1fe7;
+  border: 1px solid #626262;
+  display:block;
+  float: left;
+  height: 7vh;
+  width: 100%;
  }
 
  #b{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 14vh;
+  width: 100%;
  }
 
  #c{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 11.8vh;
+  width: 100%;
  }
+
  #d{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 11.8vh;
+  width: 100%;
  }
+ 
  #e{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 23.7vh;
+  width: 50%;
  }
  #f{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 23.7vh;
+  width: 50%;
  }
  #g{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 23.7vh;
+  width: 50%;
  }
  #h{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 23.7vh;
+  width: 50%;
  }
  #i{
   border: 1px solid #626262;
   background: #ddd;
+  display:block;
+  float: left;
+  height: 7.6vh;
+  width: 100%;
  }
 
 }
 
 @media screen and (min-width: 769px) and (max-width: 960px) {
   #a{
-    border: 1px solid #eb1e1e;
     background: #ddd;
+    border: 1px solid #626262;
     display:block;
+    float: left;
     height: 10vh;
     width: 100%;
    }
