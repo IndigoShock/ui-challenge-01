@@ -1,0 +1,129 @@
+/* start mobile */
+/* //////////////////////////////////////////////////// */
+
+@media screen and (min-width: 460px) and (max-width: 768px){
+ #a{
+  background: #ddd;
+  border: 1px solid #1c1fe7;
+ }
+
+ #b{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+
+ #c{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #d{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #e{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #f{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #g{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #h{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+ #i{
+  border: 1px solid #626262;
+  background: #ddd;
+ }
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 960px) {
+  #a{
+    border: 1px solid #eb1e1e;
+    background: #ddd;
+    display:block;
+    height: 10vh;
+    width: 100%;
+   }
+
+   #b{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 80vh;
+    width: 20%;
+   }
+
+   #c{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 40%;
+   }
+
+   #d{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 40%;
+   }
+
+   #e{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 20%;
+   }
+
+   #f{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 20%;
+   }
+
+   #g{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 20%;
+   }
+
+   #h{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 30vh;
+    width: 20%;
+   }
+
+   #i{
+    background: #ddd;
+    border: 1px solid #626262;
+    display: block;
+    float: left;
+    height: 20vh;
+    width: 80%;
+   }
+
+}
+/* end @media fullScreen */
+/* //////////////////////////////////////////////////// */
